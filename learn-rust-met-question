@@ -4,5 +4,5 @@ Solution:
 
 2. Blocking waiting for file lock on package cache   
 Solution：
--delete folder ~/.cargo/.package-cache    
+-delete file ~/.cargo/.package-cache    
 
